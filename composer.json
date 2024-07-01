@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/sparklines",
-    "version":"1.5.0",
+    "name": "cliqued-media/sparklines",
+    "version":"1.0.0",
     "description": "Contains sparklines chart types",
     "keywords": ["PHP","php reprting tools","php reporting framework","mysql reporting tools","charts","graphs","sparkines"],
     "homepage": "https://www.koolreport.com",
